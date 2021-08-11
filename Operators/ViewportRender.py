@@ -1,7 +1,8 @@
 import bpy
 
 class ViewportRenderOperator(bpy.types.Operator):
-    """Render all Enabled Viewports as seperate Viewport Render Animations"""
+    """Render all Enabled Viewports as seperate Viewport Render Animations. 
+    Make sure there are at least two render layers in your scene !"""
     bl_idname = "scene.viewport_render_multilayer"
     bl_label = "Viewport Render Multilayer"
 
