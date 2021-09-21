@@ -21,5 +21,4 @@ Open a console before starting to see updates.
 
 - use blender's video sequence editor to composite your rendered layers
 
-Inline-style: 
 ![alt text](https://github.com/LorenzWieseke/ViewportRenderMultilayer/blob/main/Images/viewport.jpg?raw=true "Logo Title Text 1")
