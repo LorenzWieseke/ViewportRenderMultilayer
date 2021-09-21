@@ -8,12 +8,12 @@ Now click <b>Viewport Render Multilayer</b> in the View Menu of the 3D Viewport.
   
 ![alt text](Images/viewport.jpg "Features")
 
-<br>
+<br></br>
 Only the View Layers, enabled for rendering will be renderd. Choose a small frame range to test it first because blender will freeze while the process is running. 
 
 Open a console before starting to see updates.
-<br>
-<br>
+<br></br>
+
 
 ![alt text](Images/ViewportRender_Compress.gif "Menu")
 
